@@ -1,7 +1,7 @@
 [project]
 name = "drupal-mcp-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP server exposing Drupal development tools (hooks, services, entity scaffolding) to AI assistants"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
